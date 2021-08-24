@@ -9,12 +9,12 @@ sites:
     url: https://bib.actionsack.com
   - name: IRC
     check: "tcp-ping"
-    url: $CHAT
-    port: $IRC_PORT
+    url: chat.actionsack.com
+    port: 6697
   - name: Mumble
     check: "tcp-ping"
-    url: $CHAT
-    port: $MUMBLE_PORT
+    url: chat.actionsack.com
+    port: 46304
   - name: Nitter
     url: https://nitter.actionsack.com
 
@@ -25,13 +25,15 @@ status-website:
   baseUrl: /status-asak
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: status-asak
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Action Sack"
+  introMessage: Status monitoring for ASAK services.
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: ASAK
+      href: https://actionsack.com
   theme: dark
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
