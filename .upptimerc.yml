@@ -3,7 +3,7 @@ owner: xnaas
 repo: status-asak
 
 sites:
-  - name: Main
+  - name: Homepage
     url: https://actionsack.com
   - name: Bibliogram
     url: https://bib.actionsack.com
@@ -19,6 +19,14 @@ sites:
     icon: https://www.mumble.info/favicon.ico
   - name: Nitter
     url: https://nitter.actionsack.com
+  - name: rss-bridge
+    url: https://rss.actionsack.com
+    expectedStatusCodes:
+      - 401
+      - 403
+    icon: https://raw.githubusercontent.com/RSS-Bridge/rss-bridge/master/static/favicon.png
+  - name: youtube-dl
+    url: https://ytdl.actionsack.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
