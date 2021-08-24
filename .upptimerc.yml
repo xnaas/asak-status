@@ -34,12 +34,13 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /status-asak
   logoUrl: https://actionsack.com/avatar.png
-  name: status-asak
-  introTitle: "Action Sack"
+  favicon: https://actionsack.com/favicon.ico
+  name: Action Sack
+  # introTitle: "Action Sack Status"
   introMessage: Status monitoring for ASAK services.
   navbar:
     - title: Status
-      href: /
+      href: /status-asak
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: ASAK
