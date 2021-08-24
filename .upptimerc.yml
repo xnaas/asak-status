@@ -27,6 +27,7 @@ sites:
     icon: https://raw.githubusercontent.com/RSS-Bridge/rss-bridge/master/static/favicon.png
   - name: youtube-dl
     url: https://ytdl.actionsack.com
+    icon: https://www.youtube.com/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
