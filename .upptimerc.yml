@@ -36,15 +36,15 @@ status-website:
   baseUrl: /status-asak
   logoUrl: https://actionsack.com/avatar.png
   favicon: https://actionsack.com/favicon.ico
-  name: Action Sack
+  name: status-asak
   # introTitle: "Action Sack Status"
-  introMessage: Status monitoring for ASAK services.
+  introMessage: Status monitoring for Action Sack services.
   navbar:
     - title: Status
-      href: /status-asak
+      href: /status-asak/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-    - title: ASAK
+    - title: Homepage
       href: https://actionsack.com
   theme: dark
 # Upptime also supports notifications, assigning issues, and more
