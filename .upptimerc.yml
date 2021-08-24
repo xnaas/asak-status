@@ -7,6 +7,14 @@ sites:
     url: https://actionsack.com
   - name: Bibliogram
     url: https://bib.actionsack.com
+  - name: IRC
+    check: "tcp-ping"
+    url: $CHAT
+    port: $IRC_PORT
+  - name: Mumble
+    check: "tcp-ping"
+    url: $CHAT
+    port: $MUMBLE_PORT
   - name: Nitter
     url: https://nitter.actionsack.com
 
