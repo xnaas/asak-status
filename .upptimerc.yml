@@ -1,4 +1,3 @@
-# Change these first
 owner: xnaas
 repo: status-asak
 
@@ -30,22 +29,14 @@ sites:
     icon: https://www.youtube.com/favicon.ico
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.actionsack.com
-  # baseUrl: /status-asak
   logoUrl: https://actionsack.com/avatar.png
   favicon: https://actionsack.com/favicon.ico
   name: status-asak
-  # introTitle: "Action Sack Status"
   introMessage: Status monitoring for Action Sack services.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-    - title: Homepage
+    - title: actionsack.com
       href: https://actionsack.com
   theme: dark
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
