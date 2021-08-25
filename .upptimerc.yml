@@ -32,8 +32,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /status-asak
+  cname: status.actionsack.com
+  # baseUrl: /status-asak
   logoUrl: https://actionsack.com/avatar.png
   favicon: https://actionsack.com/favicon.ico
   name: status-asak
@@ -41,7 +41,7 @@ status-website:
   introMessage: Status monitoring for Action Sack services.
   navbar:
     - title: Status
-      href: /status-asak/
+      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Homepage
