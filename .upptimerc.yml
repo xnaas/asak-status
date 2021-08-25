@@ -1,5 +1,5 @@
 owner: xnaas
-repo: status-asak
+repo: asak-status
 
 sites:
   - name: Homepage
@@ -32,7 +32,7 @@ status-website:
   cname: status.actionsack.com
   logoUrl: https://actionsack.com/avatar.png
   favicon: https://actionsack.com/favicon.ico
-  name: status-asak
+  name: asak-status
   introMessage: Status monitoring for Action Sack services.
   navbar:
     - title: Status
