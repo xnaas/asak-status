@@ -112,19 +112,19 @@
     "url": "https://ytdl.actionsack.com",
     "icon": "https://www.youtube.com/favicon.ico",
     "slug": "youtube-dl",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 224,
-    "timeDay": 242,
-    "timeWeek": 220,
-    "timeMonth": 224,
-    "timeYear": 224,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 223,
+    "timeDay": 219,
+    "timeWeek": 217,
+    "timeMonth": 223,
+    "timeYear": 223,
     "dailyMinutesDown": {
-      "2021-09-01": 0
+      "2021-09-01": 18
     }
   }
 ]
