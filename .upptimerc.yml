@@ -30,7 +30,7 @@ sites:
 
 status-website:
   cname: status.actionsack.com
-  logoUrl: https://actionsack.com/avatar.png
+  logoUrl: https://actionsack.com/logo.png
   favicon: https://actionsack.com/favicon.ico
   name: asak-status
   introMessage: Status monitoring for Action Sack services.
