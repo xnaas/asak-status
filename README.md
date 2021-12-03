@@ -1,4 +1,4 @@
-# [📈 Live Status](https://xnaas.github.io/status-asak): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://status.actionsack.com): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [xnaas](https://xnaas.info/), powered by [Upptime](https://github.com/upptime/upptime).
 
