@@ -23,7 +23,7 @@ sites:
     icon: https://raw.githubusercontent.com/zedeus/nitter/master/public/favicon.ico
   - name: OpenTogetherTube
     url: https://ott.actionsack.com
-    icon: https://raw.githubusercontent.com/dyc3/opentogethertube/master/public/favicon.ico
+    icon: https://raw.githubusercontent.com/dyc3/opentogethertube/master/client/public/favicon.ico
   - name: rimgu
     url: https://i.actionsack.com/favicon.ico
     icon: https://imgur.com/favicon.ico
