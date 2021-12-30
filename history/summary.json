@@ -120,19 +120,17 @@
     "icon": "https://imgur.com/favicon.ico",
     "slug": "rimgu",
     "status": "up",
-    "uptime": "10.25%",
-    "uptimeDay": "10.25%",
-    "uptimeWeek": "10.25%",
-    "uptimeMonth": "10.25%",
-    "uptimeYear": "10.25%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 330,
     "timeDay": 330,
     "timeWeek": 330,
     "timeMonth": 330,
     "timeYear": 330,
-    "dailyMinutesDown": {
-      "2021-12-30": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "RSS-Bridge 🔒",
