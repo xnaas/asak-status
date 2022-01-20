@@ -16,7 +16,7 @@ sites:
     port: 46304
     icon: https://www.mumble.info/favicon.ico
   - name: Bibliogram
-    url: https://bib.actionsack.com
+    url: https://bib.actionsack.com/favicon.ico
     icon: https://bib.actionsack.com/favicon.ico
   - name: Nitter
     url: https://nitter.actionsack.com
