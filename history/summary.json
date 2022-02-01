@@ -186,19 +186,19 @@
     "url": "https://$ASAK_LOGIN@dl.actionsack.com",
     "icon": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/whatsapp/314/floppy-disk_1f4be.png",
     "slug": "download",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.53%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.96%",
     "time": 281,
-    "timeDay": 99,
-    "timeWeek": 312,
-    "timeMonth": 311,
+    "timeDay": 155,
+    "timeWeek": 308,
+    "timeMonth": 310,
     "timeYear": 281,
     "dailyMinutesDown": {
-      "2022-02-01": 0
+      "2022-02-01": 36
     }
   },
   {
