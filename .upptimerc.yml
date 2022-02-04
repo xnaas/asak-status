@@ -10,6 +10,9 @@ sites:
     url: chat.actionsack.com
     port: 6697
     icon: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/microsoft/209/speech-balloon_1f4ac.png
+  - name: Webchat
+    url: https://webchat.actionsack.com
+    icon: https://webchat.actionsack.com/favicon.ico
   - name: Mumble
     check: "tcp-ping"
     url: chat.actionsack.com
