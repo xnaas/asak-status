@@ -43,18 +43,20 @@
     "url": "https://webchat.actionsack.com",
     "icon": "https://webchat.actionsack.com/favicon.ico",
     "slug": "webchat",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 254,
-    "timeDay": 340,
-    "timeWeek": 254,
-    "timeMonth": 254,
-    "timeYear": 254,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 235,
+    "timeDay": 259,
+    "timeWeek": 235,
+    "timeMonth": 235,
+    "timeYear": 235,
+    "dailyMinutesDown": {
+      "2022-02-06": 1
+    }
   },
   {
     "name": "Mumble",
