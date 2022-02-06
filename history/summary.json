@@ -43,19 +43,19 @@
     "url": "https://webchat.actionsack.com",
     "icon": "https://webchat.actionsack.com/favicon.ico",
     "slug": "webchat",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 235,
-    "timeDay": 259,
-    "timeWeek": 235,
-    "timeMonth": 235,
-    "timeYear": 235,
+    "status": "up",
+    "uptime": "99.53%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.53%",
+    "time": 251,
+    "timeDay": 278,
+    "timeWeek": 251,
+    "timeMonth": 251,
+    "timeYear": 251,
     "dailyMinutesDown": {
-      "2022-02-06": 1
+      "2022-02-06": 9
     }
   },
   {
