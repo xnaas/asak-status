@@ -16,7 +16,7 @@ sites:
   - name: Mumble
     check: "tcp-ping"
     url: chat.actionsack.com
-    port: 46304
+    port: 64738
     icon: https://www.mumble.info/favicon.ico
 #  - name: Bibliogram
 #    url: https://bib.actionsack.com
@@ -40,7 +40,7 @@ sites:
     url: https://ytdl.actionsack.com
     icon: https://www.youtube.com/favicon.ico
   - name: Download 🔒
-    url: https://$ASAK_LOGIN@dl.actionsack.com
+    url: https://dl.actionsack.com
     icon: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/whatsapp/314/floppy-disk_1f4be.png
   - name: Meme Wiki
     url: https://srsbznz.actionsack.com
