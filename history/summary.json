@@ -79,9 +79,9 @@
     "url": "https://nitter.actionsack.com",
     "icon": "https://raw.githubusercontent.com/zedeus/nitter/master/public/favicon.ico",
     "slug": "nitter",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
@@ -91,6 +91,7 @@
     "timeMonth": 193,
     "timeYear": 193,
     "dailyMinutesDown": {
+      "2022-02-08": 0,
       "2022-02-03": 15,
       "2022-02-01": 16,
       "2021-10-27": 129
