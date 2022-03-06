@@ -53,7 +53,7 @@
     "time": 285,
     "timeDay": 197,
     "timeWeek": 290,
-    "timeMonth": 288,
+    "timeMonth": 290,
     "timeYear": 285,
     "dailyMinutesDown": {
       "2022-02-14": 7
@@ -148,11 +148,11 @@
     "icon": "https://raw.githubusercontent.com/RSS-Bridge/rss-bridge/master/static/favicon.png",
     "slug": "rss-bridge",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
-    "uptimeYear": "99.89%",
+    "uptimeYear": "99.90%",
     "time": 378,
     "timeDay": 319,
     "timeWeek": 343,
@@ -214,10 +214,10 @@
     "url": "https://dl.actionsack.com",
     "icon": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/whatsapp/314/floppy-disk_1f4be.png",
     "slug": "download",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.97%",
     "time": 373,
@@ -226,6 +226,7 @@
     "timeMonth": 550,
     "timeYear": 373,
     "dailyMinutesDown": {
+      "2022-03-06": 1,
       "2022-02-14": 7,
       "2022-02-01": 36
     }
@@ -235,9 +236,9 @@
     "url": "https://srsbznz.actionsack.com",
     "icon": "https://raw.githubusercontent.com/splitbrain/dokuwiki/master/data/media/wiki/dokuwiki-128.png",
     "slug": "meme-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
@@ -247,6 +248,7 @@
     "timeMonth": 316,
     "timeYear": 291,
     "dailyMinutesDown": {
+      "2022-03-06": 0,
       "2022-02-14": 7,
       "2022-02-01": 16
     }
