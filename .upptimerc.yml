@@ -27,9 +27,9 @@ sites:
   - name: OpenTogetherTube
     url: https://ott.actionsack.com
     icon: https://raw.githubusercontent.com/dyc3/opentogethertube/master/client/public/favicon.ico
-  - name: rimgu
-    url: https://i.actionsack.com/favicon.ico
-    icon: https://imgur.com/favicon.ico
+  - name: rimgo
+    url: https://i.actionsack.com
+    icon: https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/favicon/favicon-32x32.png
   - name: RSS-Bridge 🔒
     url: https://$ASAK_LOGIN@rss.actionsack.com
     icon: https://raw.githubusercontent.com/RSS-Bridge/rss-bridge/master/static/favicon.png
