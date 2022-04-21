@@ -127,9 +127,9 @@
     "url": "https://i.actionsack.com",
     "icon": "https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/favicon/favicon-32x32.png",
     "slug": "rimgo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.16%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.16%",
     "uptimeYear": "99.16%",
@@ -139,6 +139,7 @@
     "timeMonth": 241,
     "timeYear": 241,
     "dailyMinutesDown": {
+      "2022-04-21": 0,
       "2022-04-08": 230
     }
   },
