@@ -42,9 +42,6 @@ sites:
   - name: Download 🔒
     url: https://dl.actionsack.com
     icon: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/whatsapp/314/floppy-disk_1f4be.png
-  - name: Meme Wiki
-    url: https://srsbznz.actionsack.com
-    icon: https://raw.githubusercontent.com/splitbrain/dokuwiki/master/data/media/wiki/dokuwiki-128.png
 
 status-website:
   cname: status.actionsack.com
