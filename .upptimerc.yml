@@ -22,7 +22,7 @@ sites:
 #    url: https://bib.actionsack.com
 #    icon: https://bib.actionsack.com/favicon.ico
   - name: Nitter
-    url: https://nitter.actionsack.com
+    url: https://n.actionsack.com
     icon: https://raw.githubusercontent.com/zedeus/nitter/master/public/favicon.ico
   - name: OpenTogetherTube
     url: https://ott.actionsack.com
