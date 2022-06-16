@@ -1,7 +1,7 @@
 url: https://$ASAK_LOGIN@rss.actionsack.com
-status: up
-code: 200
-responseTime: 132
-lastUpdated: 2022-06-15T23:04:01.168Z
+status: down
+code: 403
+responseTime: 102
+lastUpdated: 2022-06-16T11:13:23.756Z
 startTime: Tue Aug 24 2021 02:44:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
