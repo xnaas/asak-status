@@ -1,7 +1,7 @@
-url: https://dl.actionsack.com
+url: https://$ASAK_LOGIN@dl.actionsack.com
 status: down
 code: 401
-responseTime: 298
-lastUpdated: 2022-07-26T14:34:49.257Z
+responseTime: 1168
+lastUpdated: 2022-07-26T14:56:49.314Z
 startTime: Fri Dec 03 2021 13:50:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
